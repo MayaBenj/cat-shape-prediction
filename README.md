@@ -10,5 +10,6 @@ Steps:
 * Process Data - remove duplicates script was used and also manual processing.
   * Sample images for each category can be seen as zip on 'images' folder.
 * Model the data using VGG16 transfer learning.
+   * The model is too large to upload to github. Here's the learning curve:
 
 ![Prediction pyplot](https://github.com/MayaBenj/cat-shape-prediction/blob/main/pyplot.jpg)
