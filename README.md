@@ -9,5 +9,6 @@ Steps:
   * (The subreddits in questions are CatLoaf, CatsSittingDown and CatsStandingUp)
 * Process Data - remove duplicates script was used and also manual processing.
   * Sample images for each category can be seen as zip on 'images' folder.
-3. Model the data using VGG16 transfer learning.
+* Model the data using VGG16 transfer learning.
 
+![Prediction pyplot](https://octodex.github.com/images/yaktocat.png)
