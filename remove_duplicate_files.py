@@ -1,3 +1,5 @@
+#  Taken from https://codereview.stackexchange.com/questions/148099/removing-duplicate-files-in-a-given-directory
+
 import hashlib
 import os
 from collections import defaultdict
