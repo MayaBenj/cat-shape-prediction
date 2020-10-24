@@ -11,4 +11,4 @@ Steps:
   * Sample images for each category can be seen as zip on 'images' folder.
 * Model the data using VGG16 transfer learning.
 
-![Prediction pyplot](https://octodex.github.com/images/yaktocat.png)
+![Prediction pyplot](https://github.com/MayaBenj/cat-shape-prediction/blob/main/pyplot.jpg)
